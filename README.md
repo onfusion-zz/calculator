@@ -1,9 +1,17 @@
 # Calculator
-calculator ui/ux
+
+Calculator ui/ux
 
 #### Install npm dependencies only.
 
-```npm install --only=prod```
+`npm install --only=prod`
+
+#### Basic npm commands.
+
+```
+npm init
+npm update
+```
 
 #### Some basic Git commands are:
 
